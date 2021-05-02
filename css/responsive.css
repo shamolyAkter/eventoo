@@ -1,0 +1,105 @@
+
+@media(min-width:320px) and (max-width:575px){
+
+ nav button i{
+        color:#fff;
+        
+    }
+nav ul{
+    background:#0f2f44;
+    text-align: center;
+    }
+
+nav ul li{
+margin-left:0;
+
+}       
+nav .button a {
+	display: inline-block;
+	padding: 15px 20px;
+	background: linear-gradient(#ffe169,#ffa913);
+	border-radius: 5px;
+	font-family: 'Barlow Condensed', sans-serif;
+	font-weight: 800;
+	font-size: 24px;
+	color: #0f2f44;
+}              
+
+nav .button a {
+	padding: 12px 20px;
+	font-size: 17px;
+	
+}
+nav .button{
+text-align: center;
+background:#0f2f44;
+padding-bottom: 10px;
+} 
+ 
+    
+    
+    
+ #banner-part .overlay p {
+	font-size: 19px;
+}   
+ #banner-part .overlay h1 {
+	font-size: 29px;
+	 width: auto; 
+	
+} 
+#banner-part .overlay .bannercounterdown{
+width:auto;
+}    
+    
+#banner-part .overlay .bannercounterdown .time p{
+font-size: 39px;
+letter-spacing: 0;
+    
+ }   
+#banner-part .bannercounterdown .time .text {
+    font-size: 16px;
+	top: -39px;
+	left: 24px;
+}    
+#banner-part .vdo .video {
+	bottom: 0;
+	right: 45px;
+} 
+#banner-part .vdo{
+    margin-top:45px;
+}  
+    
+#banner-part .overlay {
+	padding-top: 108px;
+}
+    
+  #banner-part .bannercounterdown {
+	margin-top: 11px;
+}  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+/*==============================================*/   
+}
